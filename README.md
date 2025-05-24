@@ -1,2 +1,2 @@
 # uaap-changeablesize
-My First Responsive Website
+My First Responsive Website(Without JavaScript)
